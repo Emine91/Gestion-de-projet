@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Ws-gestionprojet
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Emine
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/Ws-gestionprojet/
+Created-By: Maven Integration for Eclipse
+
